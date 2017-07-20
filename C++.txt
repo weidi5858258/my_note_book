@@ -308,6 +308,11 @@ priority_queue：最高优先级元素，问题第一个出列
 
 
 
+Linux网络配置文件：
+/etc/sysconfig/network-scripts/ifcfg-eth0
+
+
+
 
 
 
